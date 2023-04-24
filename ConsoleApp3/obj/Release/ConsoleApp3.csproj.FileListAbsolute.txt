@@ -1,0 +1,14 @@
+C:\Users\Mateusz Bąk\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\ConsoleApp3.exe.config
+C:\Users\Mateusz Bąk\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\ConsoleApp3.exe.manifest
+C:\Users\Mateusz Bąk\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\ConsoleApp3.application
+C:\Users\Mateusz Bąk\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\ConsoleApp3.exe
+C:\Users\Mateusz Bąk\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\ConsoleApp3.pdb
+C:\Users\Mateusz Bąk\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\NAudio.dll
+C:\Users\Mateusz Bąk\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\NAudio.xml
+C:\Users\Mateusz Bąk\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz Bąk\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\ConsoleApp3.exe.manifest
+C:\Users\Mateusz Bąk\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\ConsoleApp3.application
+C:\Users\Mateusz Bąk\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\ConsoleApp3.csproj.CopyComplete
+C:\Users\Mateusz Bąk\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\ConsoleApp3.exe
+C:\Users\Mateusz Bąk\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\ConsoleApp3.pdb
+C:\Users\Mateusz Bąk\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\ConsoleApp3.csprojAssemblyReference.cache
